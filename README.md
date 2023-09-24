@@ -12,3 +12,6 @@ Miniproyecto 2:
 ```
 Miniproyecto 3: 
 ```
+```
+INVESTIGACIONES:Informes realizados (Investigaciones, avances y consultas)
+```
